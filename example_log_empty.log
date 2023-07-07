@@ -1,0 +1,14 @@
+INFO:root:Setting environment variable INTERCOM_API_TOKEN
+INFO:root:Setting environment variable DB_USER_USERNAME
+INFO:root:Setting environment variable DB_USER_PASSWORD
+INFO:root:Setting environment variable DB_HOST
+INFO:root:Setting environment variable DB_NAME
+INFO:Pipeline:2 pre execution step(s) to execute.
+INFO:Pipeline:Starting pre execution step: GetDatabaseConnection
+INFO:Pipeline:Starting pre execution step: GetPayloads
+INFO:Pipeline:Stopping pipeline early: No updates to conversations found, stopping pipeline.
+INFO:Pipeline:1 post execution step(s) to execute.
+INFO:Pipeline:Starting post execution step: CommitTransaction
+INFO:Pipeline:Processed all post execution steps successfully.
+
+Process finished with exit code 0
